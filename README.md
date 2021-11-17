@@ -1,7 +1,7 @@
 - Hii I am Aum Sahayata.
 - I am a freshman student.👨‍🎓
 - I like to learn new stuff.🆕
-- Looking to contribute to the community.👨‍💻
+- Looking forward to learn and contribute to community.👨‍💻
 
 
 
