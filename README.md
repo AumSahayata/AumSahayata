@@ -1,6 +1,11 @@
 - Hii I am Aum Sahayata.
-- I am a freshman student.👨‍🎓
-- I like to learn new stuff.🆕
+- I am a college student.👨‍🎓
+- Currently  I know:
+  - C language
+  - C++
+  - HTML
+  - CSS
+  - Javascript
 - Looking forward to learn and contribute to community.👨‍💻
 
 
