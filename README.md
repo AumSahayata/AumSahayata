@@ -1,4 +1,4 @@
-- Hii I am Aum Sahayata.
+- Hii 👋 I am Aum Sahayata.
 - I am a college student.👨‍🎓
 - Currently  I know:
   - C language
