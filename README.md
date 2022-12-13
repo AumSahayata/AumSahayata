@@ -3,6 +3,8 @@
 - Currently  I know:
   - C language
   - C++
+  - Java
+  - Python
   - HTML
   - CSS
   - Javascript
