@@ -1,13 +1,12 @@
 - Hii 👋 I am Aum Sahayata.
 - I am a college student.👨‍🎓
 - Currently  I know:
-  - C language
   - C++
   - Java
   - Python
-  - HTML
-  - CSS
   - Javascript
+  - Unity & C#
+  - Android Dev (Kotlin)
 - Looking forward to learn and contribute to community.👨‍💻
 
 
