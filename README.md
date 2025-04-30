@@ -17,7 +17,7 @@
 
 ## 🛠 Featured Projects
 
-### 🔗 [Distributed URL Shortener](https://github.com/AumSahayata/shorturl-go)
+### 🔗 [Distributed URL Shortener](https://github.com/AumSahayata/URL-shortener-using-Go)
 > A scalable, Go-based URL shortening service with custom aliases, IP-based rate limiting, expiry control, and Redis-backed storage. Designed with RESTful APIs and built for performance.
 
 ### 📚 [Learn Quest](https://github.com/AumSahayata/learnquest_backend)
