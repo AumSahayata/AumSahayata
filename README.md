@@ -9,7 +9,7 @@
 ## 🔧 Tech Stack
 
 - **Languages:** Python, Go, C++, JavaScript, HTML/CSS  
-- **Frameworks:** FastAPI, Gin, Langchain, Tensorflow, Pandas, Scikit-Learn
+- **Frameworks:** FastAPI, Langchain, Tensorflow, Pandas, Scikit-Learn
 - **Databases:** PostgreSQL, MySQL, Redis, MongoDB
 - **Cloud & Tools:** AWS , GitHub, Docker, Linux
 
