@@ -17,14 +17,14 @@
 
 ## 🛠 Featured Projects
 
+### ☁️ [CloudBoxIO](https://github.com/AumSahayata/cloudboxio)
+> CloudBoxIO is an open source, lightweight, self-hosted file storage and sharing service built using Go.
+
 ### 🔗 [Distributed URL Shortener](https://github.com/AumSahayata/URL-shortener-using-Go)
 > A scalable, Go-based URL shortening service with custom aliases, IP-based rate limiting, expiry control, and Redis-backed storage. Designed with RESTful APIs and built for performance.
 
 ### 📚 [Learn Quest](https://github.com/AumSahayata/learnquest_backend)
 > Backend for an online learning platform using FastAPI and PostgreSQL. Hosted on AWS, with features for course management and secure file storage via AWS S3.
-
-### 🧠 [Intelligent Enterprise Assistant](https://github.com/AumSahayata/code-wiz-backend)
-> An AI chatbot for handling employee queries and document retrieval. Uses RAG architecture with Langchain, FAISS vector DB, and FastAPI backend.
 ---
 
 ## 🏆 Hackathons & Achievements
