@@ -11,7 +11,7 @@
 - **Languages:** Python, Go, C++, JavaScript, HTML/CSS  
 - **Frameworks:** FastAPI, Langchain, Tensorflow, Pandas, Scikit-Learn
 - **Databases:** PostgreSQL, MySQL, Redis, MongoDB
-- **Cloud & Tools:** AWS , GitHub, Docker, Linux
+- **Cloud & Tools:** AWS, GitHub, Docker, Linux
 
 ---
 
