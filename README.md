@@ -29,7 +29,7 @@
 
 ## 🏆 Hackathons & Achievements
 
-- **Top 7 at AIDTM Hackathon**  
+- **Top 7 at AIDTM Hackathon 2024**  
 
 - **Finalist – Odoo Combat India 2024**  
 ---
@@ -43,7 +43,7 @@ I enjoy game development as a creative hobby—building games in Unity to sharpe
 
 ## 📬 Contact Me
 
-- ✉️ aumsahayata9@gmail.com  
+- ✉️ sahayata36@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/aum-sahayata/)  
 
 ---
