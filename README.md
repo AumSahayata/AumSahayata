@@ -20,8 +20,8 @@
 ### ☁️ [CloudBoxIO](https://github.com/AumSahayata/cloudboxio)
 > CloudBoxIO is an open source, lightweight, self-hosted file storage and sharing service built using Go.
 
-### 🔗 [Distributed URL Shortener](https://github.com/AumSahayata/URL-shortener-using-Go)
-> A scalable, Go-based URL shortening service with custom aliases, IP-based rate limiting, expiry control, and Redis-backed storage. Designed with RESTful APIs and built for performance.
+### 🛡️ [GoGuard](https://github.com/AumSahayata/goguard)
+> Go Guard is a CLI tool + GitHub Action for scanning Go projects to detect: Vulnerabilities, Outdated dependencies, Unmaintained packages, License risks
 
 ### 📚 [Learn Quest](https://github.com/AumSahayata/learnquest_backend)
 > Backend for an online learning platform using FastAPI and PostgreSQL. Hosted on AWS, with features for course management and secure file storage via AWS S3.
