@@ -44,7 +44,7 @@ I enjoy game development as a creative hobby—building games in Unity to sharpe
 ## 📬 Contact Me
 
 - ✉️ sahayata36@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/aum-sahayata/)  
+- 🐦 [X (Twitter)](https://x.com/theawmmit)  
 
 ---
 
