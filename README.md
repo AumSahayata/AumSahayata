@@ -36,7 +36,7 @@
 
 ## 🎮 Game Dev Hobby
 
-I enjoy game development as a creative hobby—building games in Unity to sharpen my logic, storytelling, and design skills.
+I enjoy game development as a creative hobby, building games in Unity to sharpen my logic, storytelling, and design skills.
 
 ---
 
