@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Aum Sahayata
 
-🚀 B.Tech in Computer Science & Engineering  
-🎯 Passionate about backend development, distributed systems, and building scalable real-world software  
-📍 Based in India | 🌍 Open to opportunities globally
+🎯 Backend & Infrastructure Engineer focused on building reliable, scalable software with **Go and Python**.  
+🚀 I enjoy working on **backend systems, distributed systems and infrastructure** from APIs and storage systems to task schedulers and automation.   
+📍 India | 🌍 Open to opportunities globally.
 
 ---
 
-## 🔧 Tech Stack
+## 🛠️ Core Skills
 
-- **Languages:** Python, Go, C++, JavaScript, HTML/CSS  
-- **Frameworks:** FastAPI, Langchain, Tensorflow, Pandas, Scikit-Learn
-- **Databases:** PostgreSQL, MySQL, Redis, MongoDB
-- **Cloud & Tools:** AWS, GitHub, Docker, Linux
+- **Languages:** Go, Python, C++, SQL
+- **Backend:** FastAPI, REST APIs, PostgreSQL, Redis
+- **Systems & Infrastructure:** Linux, Docker, AWS, GitHub Actions
+- **Engineering:** Distributed Systems, Concurrency, APIs, Database Design, Testing
 
 ---
 
