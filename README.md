@@ -2,7 +2,7 @@
 
 🎯 Backend & Infrastructure Engineer focused on building reliable, scalable software with **Go and Python**.  
 🚀 I enjoy working on **backend systems, distributed systems and infrastructure** from APIs and storage systems to task schedulers and automation.   
-📍 India | 🌍 Open to opportunities globally.
+📍 Based in India | 🌍 Open to opportunities globally.
 
 ---
 
