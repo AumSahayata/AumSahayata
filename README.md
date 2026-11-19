@@ -20,9 +20,6 @@
 ### ☁️ [CloudBoxIO](https://github.com/AumSahayata/cloudboxio)
 > CloudBoxIO is an open source, lightweight, self-hosted file storage and sharing service built using Go.
 
-### 🕑 [Chronos](https://github.com/AumSahayata/chronos)
-> Chronos is a fault tolerant distributed task scheduler with second-level precision.
-
 ### 🛡️ [GoGuard](https://github.com/AumSahayata/goguard)
 > Go Guard is a CLI tool + GitHub Action for scanning Go projects to detect: Vulnerabilities, Outdated dependencies, Unmaintained packages, License risks
 
